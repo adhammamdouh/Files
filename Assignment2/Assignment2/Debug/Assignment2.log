@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\files assignment\assignment2\assignment2\source.cpp(143): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\files assignment\assignment2\assignment2\source.cpp(278): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\files assignment\assignment2\assignment2\source.cpp(327): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\files assignment\assignment2\assignment2\source.cpp(376): warning C4018: '<': signed/unsigned mismatch
+  Assignment2.vcxproj -> D:\Files assignment\Assignment2\Debug\Assignment2.exe
