@@ -1,0 +1,8 @@
+﻿  invertedList.cpp
+d:\files assignment\assignment3\assignment3\invertedlist.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  secondaryFile.cpp
+d:\files assignment\assignment3\assignment3\secondaryfile.cpp(124): warning C4018: '<': signed/unsigned mismatch
+d:\files assignment\assignment3\assignment3\secondaryfile.cpp(179): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+d:\files assignment\assignment3\assignment3\secondaryfile.cpp(174): warning C4715: 'secondaryFile::getRecord': not all control paths return a value
+  Assignment3.vcxproj -> D:\Files assignment\Assignment3\Debug\Assignment3.exe
